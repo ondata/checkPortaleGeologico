@@ -12,7 +12,7 @@
 
 Il 18 febbraio 2019 è stato presentato il **nuovo** [**Portale del Servizio Geologico d'Italia**](http://www.isprambiente.gov.it/it/events/il-portale-del-servizio-geologico-ditalia-dati-a-servizio-del-professionista)
 
-I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior forza quelli di questo contesto. Abbiamo voluto allora verificare se fossero **dati aperti**, se fossero **riutilizzabili**. Abbiamo creato uno script per verificare automaticamente quali siano le licenze in essere nella sezione denominata "[Utilizza i dati](http://portalesgi.isprambiente.it/it/categorie-servizi-wms)".
+I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior forza quelli di questo contesto. Abbiamo voluto allora verificare se fossero **dati aperti**, se fossero **riutilizzabili**. Abbiamo creato uno [script](./check.sh) per verificare automaticamente quali siano le licenze in essere nella sezione denominata "[Utilizza i dati](http://portalesgi.isprambiente.it/it/categorie-servizi-wms)".
 
 Emerge che per **alla gran parte delle risorse pubblicate non è associata una licenza aperta**.
 
