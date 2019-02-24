@@ -1,0 +1,16 @@
+http://idt.regione.veneto.it/wms_c0501_litologia/service.svc/get?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/Geositi/Mappa_reader/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/geomorfologia25k/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/limiti_amministrativi/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/raster_geologia_1250k/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/strutturale1M/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/tsunami/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/ZoneUmide/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/ZoneUmide/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/rest/services/servizi/ZoneUmide/MapServer?Request=GetCapabilities&service=WMS
+http://sgi2.isprambiente.it/arcgis/services/servizi/Rendis_interventi/MapServer/WmsServer?Request=GetCapabilities&service=WMS
+http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WMSServer?Request=GetCapabilities&service=WMS
+http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WmsServer?Request=GetCapabilities&service=WMS
+http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WmsServer?Request=GetCapabilities&service=WMS
+http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WmsServer?Request=GetCapabilities&service=WMS
+http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WmsServer?Request=GetCapabilities&service=WMS
