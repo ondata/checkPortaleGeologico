@@ -14,7 +14,7 @@ Il 18 febbraio 2019 è stato presentato il **nuovo** [**Portale del Servizio Geo
 
 I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior forza quelli di questo contesto. Abbiamo voluto allora verificare se fossero **dati aperti**, se fossero **riutilizzabili**. Abbiamo creato uno [script](./check.sh) per verificare automaticamente quali siano le licenze in essere nella sezione denominata "[Utilizza i dati](http://portalesgi.isprambiente.it/it/categorie-servizi-wms)".
 
-Emerge che per **alla gran parte delle risorse pubblicate non è associata una licenza aperta**.
+Emerge che **alla gran parte delle risorse lì pubblicate non è associata una licenza aperta**.
 
 # Dove sono pubblicate le informazioni sulle licenze
 
