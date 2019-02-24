@@ -87,8 +87,8 @@ Queste le licenze presenti:
 
 # Note conclusive
 
-Dati e servizi di questa natura sono di **grande valore** e **interesse**, ricadono tra i cosiddetti "**dati pubblici**", quindi andrebbero pubblicati con **licenze aperte**, che ne consentano il **pieno riuso**. È una conclusione di buon senso, per la quale crediamo non sia necessario citare il Codice Amministrazione Digitale (CAD) e le norme sul riutilizzo di documenti nel settore pubblico 
+Dati e servizi di questa natura sono di **grande valore** e **interesse**, ricadono tra i cosiddetti "**dati pubblici**", quindi andrebbero pubblicati con **licenze aperte**, che ne consentano il **pieno riuso**. È una conclusione di buon senso, per la quale crediamo non sia necessario citare il Codice Amministrazione Digitale (CAD) e le norme sul riutilizzo di documenti nel settore pubblico.
 
-Il portale non è sempre fonte primaria del dato, quindi non è responsabile sempre della scelta sulle licenze. Ma il suo essere un indice di risorse ci ha consentito di riuscire a creare rapidamente questo _report_ di riepilogo.<br>
+Il portale non è sempre fonte primaria del dato, quindi non è responsabile sempre della scelta sulle licenze. Ma il suo essere un indice di risorse ci ha consentito di riuscire a creare rapidamente questo _report_ di riepilogo.
 
 Chiediamo ai responsabili delle varie risorse di **scegliere** per queste (laddove nulla osta) una **licenza aperta**.
