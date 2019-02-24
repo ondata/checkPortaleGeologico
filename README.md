@@ -1,6 +1,6 @@
 <!-- TOC -->
 
-- [La maggior parte dei dati della sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia non sono dati aperti](#la-maggior-parte-dei-dati-della-sezione-utilizza-i-dati-del-portale-del-servizio-geologico-ditalia-non-sono-dati-aperti)
+- [La sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia ha pochi dati aperti](#la-sezione-utilizza-i-dati-del-portale-del-servizio-geologico-ditalia-ha-pochi-dati-aperti)
 - [Dove sono pubblicate le informazioni sulle licenze](#dove-sono-pubblicate-le-informazioni-sulle-licenze)
 - [I dati raccolti](#i-dati-raccolti)
 - [Il quadro generale](#il-quadro-generale)
@@ -8,7 +8,7 @@
 
 <!-- /TOC -->
 
-# La maggior parte dei dati della sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia non sono dati aperti
+# La sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia ha pochi dati aperti
 
 Il 18 febbraio 2019 è stato presentato il **nuovo** [**Portale del Servizio Geologico d'Italia**](http://www.isprambiente.gov.it/it/events/il-portale-del-servizio-geologico-ditalia-dati-a-servizio-del-professionista)
 
