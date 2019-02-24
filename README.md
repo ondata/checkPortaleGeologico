@@ -1,3 +1,13 @@
+<!-- TOC -->
+
+- [Le licenze della sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia](#le-licenze-della-sezione-utilizza-i-dati-del-portale-del-servizio-geologico-ditalia)
+- [Dove sono pubblicate le informazioni sulle licenze](#dove-sono-pubblicate-le-informazioni-sulle-licenze)
+- [I dati raccolti](#i-dati-raccolti)
+- [Il quadro generale](#il-quadro-generale)
+- [Note conclusive](#note-conclusive)
+
+<!-- /TOC -->
+
 # Le licenze della sezione "Utilizza i dati" del Portale del Servizio Geologico d'Italia
 
 Il 18 febbraio 2019 è stato presentato il **nuovo** [**Portale del Servizio Geologico d'Italia**](http://www.isprambiente.gov.it/it/events/il-portale-del-servizio-geologico-ditalia-dati-a-servizio-del-professionista)
@@ -37,7 +47,11 @@ Alcune delle 182 risorse **non consentono la lettura automatica delle licenza** 
 
 Questi 10 URL hanno un impatto su **16** delle 182 risorse (perché a un singolo URL può essere associata più di una risorsa): è stato possibile raccogliere in modo automatico informazioni sulle licenze di **166 risorse** su 182 (circa il 90%).
 
-Interrogandole emerge questa **sintesi**:
+[Qui](./report/reportLicenzeRisorse.csv) i dati raccolti.
+
+# Il quadro generale
+
+Dai dati raccolti emerge questa **sintesi**:
 
 | Open Data | Numero |
 | --- | --- |
