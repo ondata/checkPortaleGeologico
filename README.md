@@ -18,7 +18,7 @@ Emerge che **alla gran parte delle risorse lì pubblicate non è associata una l
 
 # Dove sono pubblicate le informazioni sulle licenze
 
-La licenza generale del sito (è a fondo pagina) è una [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/), una licenza **non aperta**. Quella di cui tenere conto non è questa, ma quella associate alle singole risorse.
+La licenza generale del sito (è a fondo pagina) è una [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/), una licenza **non aperta**. Quella di cui tenere conto non è questa, ma quella associata alle singole risorse.
 
 La sezione di sopra è suddivisa in **14 temi** ([questi](./data/urlBase.txt) gli URL), al cui interno sono elencati **182 servizi/risorse** ([questi](./data/tmp_urlWMS.txt) gli URL). Sono pubblicati come `Web Map Service`, (semplificando un po') quindi esposti come pixel. **I dati da utilizzare sono questi 182**.
 
