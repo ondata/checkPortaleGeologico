@@ -34,20 +34,8 @@ Su questo servizio vogliamo aprire una piccola parentesi, perché probabilmente 
 
 # I dati raccolti
 
-Alcune delle 182 risorse **non consentono la lettura automatica delle licenza** associata, perché i loro URL non forniscono una risposta `GetCapabilities` (o perché l'URL indicato nel sito non è quello esatto, o perché il servizio non è funzionante). In particolare si tratta di questi:
-
-- http://idt.regione.veneto.it/wms_c0501_litologia/service.svc/get?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/Geositi/Mappa_reader/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/geomorfologia25k/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/limiti_amministrativi/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/raster_geologia_1250k/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/strutturale1M/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/tsunami/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/rest/services/servizi/ZoneUmide/MapServer?Request=GetCapabilities&service=WMS
-- http://sgi2.isprambiente.it/arcgis/services/servizi/Rendis_interventi/MapServer/WmsServer?Request=GetCapabilities&service=WMS
-- http://www.geoservices.isprambiente.it/arcgis/services/IFFI/Progetto_IFFI_WMS_public/MapServer/WmsServer?Request=GetCapabilities&service=WMS
-
-Questi 10 URL hanno un impatto su **16** delle 182 risorse (perché a un singolo URL può essere associata più di una risorsa): è stato quindi possibile raccogliere in modo automatico informazioni sulle licenze di **166 risorse** su 182 (circa il 90%).
+Alcune delle 182 risorse **non consentono la lettura automatica delle licenza** associata, perché i loro URL non forniscono una risposta `GetCapabilities` (o perché l'URL indicato nel sito non è quello esatto, o perché il servizio non è funzionante). In particolare si tratta di [questi 10](./report/URLproblematici.txt).<br>
+Questi URL problematici hanno un impatto su **16** delle 182 risorse (perché a un singolo URL può essere associata più di una risorsa): è stato quindi possibile raccogliere in modo automatico informazioni sulle licenze di **166 risorse** su 182 (circa il 90%).
 
 [Qui](./report/reportLicenzeRisorse.csv) i dati raccolti.
 
