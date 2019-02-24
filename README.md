@@ -16,7 +16,7 @@ I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior for
 
 Emerge che **alla gran parte delle risorse lì pubblicate non è associata una licenza aperta**. 
 
-✋✋ Chiedi anche tu [**con un tweet**](https://twitter.com/intent/tweet?text=Voglio%20una%20licenza%20che%20consenta%20anche%20il%20riuso%20commerciale%2C%20per%20i%20dati%20del%20Portale%20del%20Servizio%20Geologico%20d%27Italia.%20Voglio%20una%20licenza%20aperta%20%40ISPRA_Press%20%40AgidGov%20%40minambienteIT%20%40SergioCosta_min%20%40teamdigitaleIT) di rilasciare questi dati con un licenza che non consenta il riuso commerciale.
+✋✋ Chiedi anche tu [**con un tweet**](https://twitter.com/intent/tweet?text=Voglio%20una%20licenza%20che%20consenta%20anche%20il%20riuso%20commerciale%2C%20per%20i%20dati%20del%20Portale%20del%20Servizio%20Geologico%20d%27Italia.%20Voglio%20una%20licenza%20aperta%20%40ISPRA_Press%20%40AgidGov%20%40minambienteIT%20%40SergioCosta_min%20%40teamdigitaleIT) di rilasciare questi dati con un licenza che ne consenta il riuso commerciale.
 
 
 
