@@ -41,7 +41,7 @@ Questi URL problematici hanno un impatto su **16** delle 182 risorse (perché a 
 
 # Il quadro generale
 
-Dai dati raccolti emerge questa **sintesi**:
+Dai dati raccolti emerge questa sintesi: **130 risorse su 166** (circa l'80%) **non sono dati aperti**!
 
 | Licenza Open Data | Numero |
 | --- | --- |
@@ -49,8 +49,7 @@ Dai dati raccolti emerge questa **sintesi**:
 | ND | 31 |
 | SÌ | 5 |
 
-Quindi **130 risorse su 166** (circa l'80%) **non sono dati aperti**. Il valore `ND` (Non Determinabile) è stato usato laddove non è stato possibile associare una licenza a una risorsa, perché non documentata nella risposta alla richiesta `GetCapabilities`.<br>
-
+Il valore `ND` (Non Determinabile) è stato usato laddove non è stato possibile associare una licenza a una risorsa, perché non documentata nella risposta alla richiesta `GetCapabilities`.<br>
 A seguire le varie tipologie di licenza. Sono per la gran parte - scritte in forma diversa - quasi tutte licenze **Non Commerciali** (NC), non utilizzabili per fini commerciali. Non sono quindi licenze aperte, perché queste devono consentire il riuso anche per questi fini.
 
 | licenza | Numero |
