@@ -1,0 +1,14 @@
+http://portalesgi.isprambiente.it/lista-servizi-wms/Geological%20Maps
+http://portalesgi.isprambiente.it/lista-servizi-wms/Geothematic%20Maps
+http://portalesgi.isprambiente.it/lista-servizi-wms/Natural%20Hazard
+http://portalesgi.isprambiente.it/lista-servizi-wms/Italy%20landslide
+http://portalesgi.isprambiente.it/lista-servizi-wms/Land%20Use%20Land%20Cover
+http://portalesgi.isprambiente.it/lista-servizi-wms/Boreholes
+http://portalesgi.isprambiente.it/lista-servizi-wms/Geophysics
+http://portalesgi.isprambiente.it/lista-servizi-wms/Geoheritage
+http://portalesgi.isprambiente.it/lista-servizi-wms/Hydrogeology
+http://portalesgi.isprambiente.it/lista-servizi-wms/Infrastructure
+http://portalesgi.isprambiente.it/lista-servizi-wms/Raster%20Data
+http://portalesgi.isprambiente.it/lista-servizi-wms/Boundary%20line
+http://portalesgi.isprambiente.it/lista-servizi-wms/Place%20Name
+http://portalesgi.isprambiente.it/lista-servizi-wms/Servizi%20Regionali
