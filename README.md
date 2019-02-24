@@ -20,7 +20,7 @@ Emerge che **alla gran parte delle risorse lì pubblicate non è associata una l
 
 La licenza generale del sito (è a fondo pagina) è una [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/), una licenza **non aperta**. Quella di cui tenere conto non è questa, ma quella associata alle singole risorse.
 
-La sezione di sopra è suddivisa in **14 temi** ([questi](./data/urlBase.txt) gli URL), al cui interno sono elencati **182 servizi/risorse** ([questi](./data/tmp_urlWMS.txt) gli URL). Sono pubblicati come `Web Map Service`, (semplificando un po') quindi esposti come pixel. **I dati da utilizzare sono questi 182**.
+La [sezione](http://portalesgi.isprambiente.it/it/categorie-servizi-wms) di sopra è suddivisa in **14 temi** ([questi](./data/urlBase.txt) gli URL), al cui interno sono elencati **182 servizi/risorse** ([questi](./data/tmp_urlWMS.txt) gli URL). Sono pubblicati come `Web Map Service`, (semplificando un po') quindi esposti come pixel. **I dati da utilizzare sono questi 182**.
 
 Accedendo in questa modalità, la licenza è da leggere nella risposta `XML` fornita dai vari servizi, in particolare quella alla chiamata `GetCapabilities`, in cui è presente il tag `<AccessConstraints>`. Ad esempio il servizio sui [limiti amministrativi](http://sgi2.isprambiente.it/arcgis/services/servizi/limiti_amministrativi/MapServer/WmsServer?Request=GetCapabilities&service=WMS), risponde con questa stringa:
 
