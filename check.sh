@@ -37,14 +37,13 @@ done <./data/urlWMS.txt
 # crea csv dei dati sulle licenze
 <./data/fee.json jq -s . | mlr --j2c cat >./data/fee.csv
 
-
 # aggiungi riga di intestazione agli URL WMS
 mlr --n2c label url ./data/urlWMS.txt >./data/urlWMS.csv
 
 # fai il join tra gli URL WMS e i dati sulle licenze
 mlr --csv join --ul -j url -f ./data/urlWMS.csv then unsparsify --fill-with "NoGetCapabilitiesReply" ./data/fee.csv >./data/report.csv
 
-# assegna licenze
+# classifica licenze
 mlr -I --csv put -S 'if ($license =~ "-NC" || $license =~ "intelletuale") {$OD = "NO"} else {$OD=""}' ./data/report.csv
 mlr -I --csv put -S 'if ($license =~ "CC BY SA 3.0") {$OD = "YES"} else {$OD=$OD}' ./data/report.csv
 mlr -I --csv put -S 'if ($license == "" && title =~ ".+") {$OD = "ND"} else {$OD=$OD}' ./data/report.csv
@@ -83,5 +82,3 @@ mlr --csv join -j url -f ./report/RisorseVerificabili.txt then cut -x -f title .
 mlr --icsv --omd uniq -c -g OD then sort -nr count then rename "OD,Open Data,count,Numero" ./report/reportLicenzeRisorse.csv >./report/riepilogoOpenData.md
 
 ### report ###
-<<comment1
-comment1
