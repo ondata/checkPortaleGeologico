@@ -14,7 +14,11 @@ Il 18 febbraio 2019 è stato presentato il **nuovo** [**Portale del Servizio Geo
 
 I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior forza quelli di questo contesto. Abbiamo voluto allora verificare se fossero **dati aperti**, se fossero **riutilizzabili**. Abbiamo creato uno [script](./check.sh) per verificare automaticamente quali siano le licenze in essere nella sezione denominata "[Utilizza i dati](http://portalesgi.isprambiente.it/it/categorie-servizi-wms)".
 
-Emerge che **alla gran parte delle risorse lì pubblicate non è associata una licenza aperta**.
+Emerge che **alla gran parte delle risorse lì pubblicate non è associata una licenza aperta**. 
+
+✋✋ Chiedi anche tu [**con un tweet**](https://twitter.com/intent/tweet?text=Voglio%20una%20licenza%20aperta%2C%20che%20consenta%20anche%20il%20riuso%20commerciale%2C%20per%20i%20dati%20del%20Portale%20del%20Servizio%20Geologico%20d%27Italia%20%40ISPRA_Press%20%40AgidGov%20%40minambienteIT%20%40SergioCosta_min%20%40teamdigitaleIT) di rilasciare questi dati con un licenza che non consenta il riuso commerciale.
+
+
 
 # Dove sono pubblicate le informazioni sulle licenze
 
@@ -53,15 +57,15 @@ Questi 10 URL hanno un impatto su **16** delle 182 risorse (perché a un singolo
 
 Dai dati raccolti emerge questa **sintesi**:
 
-| Open Data | Numero |
+| Licenza Open Data | Numero |
 | --- | --- |
 | NO | 130 |
 | ND | 31 |
-| YES | 5 |
+| SÌ | 5 |
 
-Quindi **130 risorse su 166** (circa l'80%) **non sono dati aperti**. Il valore `ND` è stato usato laddove non è stato possibile associare una licenza a una risorsa, perché non documentata nella risposta alla richiesta `GetCapabilities`.<br>
+Quindi **130 risorse su 166** (circa l'80%) **non sono dati aperti**. Il valore `ND` (Non Determinabile) è stato usato laddove non è stato possibile associare una licenza a una risorsa, perché non documentata nella risposta alla richiesta `GetCapabilities`.<br>
 
-Queste le licenze presenti:
+A seguire le varie tipologie di licenza. Sono per la gran parte - scritte in forma diversa - quasi tutte licenze Non Commerciali (NC), non utilizzabili per fini commerciali, quindi non sono appunto licenze aperte. Queste devono consentire il riuso anche per fini commerciali
 
 | licenza | Numero |
 | --- | --- |
