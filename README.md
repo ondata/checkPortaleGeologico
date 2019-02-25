@@ -30,7 +30,7 @@ Accedendo in questa modalità, la licenza è da leggere nella risposta `XML` all
 <AccessConstraints><![CDATA[Licenza d'uso CC-BY-NC]]></AccessConstraints>
 ```
 
-Su questo servizio vogliamo aprire una piccola parentesi, perché probabilmente c'è da fare una verifica. La licenza qui è infatti una CC-BY-NC, ma il dato che fa da sorgente (la fonte è ISTAT) non è con licenza NC. Quindi probabilmente c'è piccolo errore.
+Una nota su questo servizio/risorsa: la licenza qui è una CC-BY-NC, ma il dato che fa da sorgente è ISTAT, che non dovrebbe essere con licenza NC.
 
 # I dati raccolti
 
