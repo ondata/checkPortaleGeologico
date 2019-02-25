@@ -20,7 +20,7 @@ Emerge che **alla gran parte delle risorse non è associata una licenza aperta**
 
 # Dove sono pubblicate le informazioni sulle licenze
 
-La licenza generale del sito (è a fondo pagina) è una [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/), una licenza non aperta. Quella di cui tenere conto non è questa, ma quella associata alle singole risorse.
+La licenza generale del sito (è a fondo pagina) è una [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/), una licenza non aperta. Quella di cui tenere conto non è questa, ma **quella associata alle singole risorse**.
 
 La sezione "[Utilizza i dati](http://portalesgi.isprambiente.it/it/categorie-servizi-wms)" è suddivisa in **14 temi** ([questi](./data/urlBase.txt) gli URL), al cui interno sono elencati **182 servizi/risorse** ([questi](./data/tmp_urlWMS.txt) gli URL, da cui sono stati rimossi quelli IFFI perché non raggiungibili).<br>Sono pubblicati come `Web Map Service`, quindi (semplificando un po') esposti come pixel. **I dati su cui abbiamo costruito questo report, sono questi 182**.
 
@@ -37,11 +37,11 @@ Una nota su questo servizio/risorsa: la licenza qui è una CC-BY-NC, ma il dato 
 Alcune delle 182 risorse **non consentono la lettura automatica delle licenza** associata, perché i loro URL non forniscono una risposta `GetCapabilities` (o perché l'URL indicato nel sito non è quello esatto, o perché il servizio non è funzionante). In particolare si tratta di [questi 10](./report/URLproblematici.txt).<br>
 Questi URL problematici hanno un impatto su **16** delle 182 risorse (perché a un singolo URL può essere associata più di una risorsa): è stato quindi possibile raccogliere in modo automatico informazioni sulle licenze di **166 risorse** su 182 (circa il 90%).
 
-[Qui](./report/reportLicenzeRisorse.csv) i dati raccolti.
+[Qui](./report/reportLicenzeRisorse.csv) i dati raccolti (il 23 febbraio 2019).
 
 # Il quadro generale
 
-Dai dati raccolti emerge questa sintesi: **130 risorse su 166** (circa l'80%) **non sono dati aperti**!
+Dai dati emerge questa sintesi: **130 risorse su 166** (circa l'80%) **non sono dati aperti**!
 
 | Licenza Open Data | Numero |
 | --- | --- |
