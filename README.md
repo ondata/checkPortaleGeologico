@@ -16,7 +16,7 @@ I dati geografici sono da sempre tra i dati di maggiore interesse, a maggior for
 
 Emerge che **alla gran parte delle risorse non è associata una licenza aperta**, in quanto non è consentito l'uso commerciale.
 
-✋✋ Chiedi anche tu [**con un tweet**](https://twitter.com/intent/tweet?text=Voglio%20una%20licenza%20che%20consenta%20anche%20il%20riuso%20commerciale%2C%20per%20i%20dati%20del%20Portale%20del%20Servizio%20Geologico%20d%27Italia.%20Voglio%20una%20licenza%20aperta%20%40ISPRA_Press%20%40AgidGov%20%40minambienteIT%20%40SergioCosta_min%20%40teamdigitaleIT) di rilasciare questi dati con una licenza che ne **consenta** il **riuso** **commerciale**.
+✋✋ Chiedi anche tu [**con un tweet**](https://twitter.com/intent/tweet?text=Voglio%20una%20licenza%20che%20consenta%20anche%20il%20riuso%20commerciale%2C%20per%20i%20dati%20del%20Portale%20del%20Servizio%20Geologico%20d%27Italia.%20Voglio%20una%20licenza%20aperta%20%40ISPRA_Press%20%40AgidGov%20%40minambienteIT%20%40SergioCosta_min%20%40teamdigitaleIT) di rilasciare questi dati con una licenza che ne **consenta** il **pieno riuso**, chiedi anche tu una **licenza aperta**.
 
 # Dove sono pubblicate le informazioni sulle licenze
 
@@ -76,7 +76,8 @@ A seguire le varie tipologie di licenza. Sono per la gran parte - scritte in for
 
 # Note conclusive
 
-Dati e servizi di questa natura sono di **grande valore** e **interesse**, ricadono tra i cosiddetti "**dati pubblici**", quindi andrebbero pubblicati con **licenze aperte**, che ne consentano il **pieno riuso**. È una conclusione di buon senso, per la quale crediamo non sia necessario citare il Codice Amministrazione Digitale (CAD) e le norme sul riutilizzo di documenti nel settore pubblico.
+Dati e servizi di questa natura sono di **grande valore** e **interesse**, ricadono tra i cosiddetti "**dati pubblici**", quindi andrebbero pubblicati con **licenze aperte**, che ne consentano il **pieno riuso**. È una conclusione di buon senso, per la quale crediamo non sia necessario citare il Codice Amministrazione Digitale (CAD) e le norme sul riutilizzo di documenti nel settore pubblico.<br>
+Riuscendo a recuperare i dati sulle licenze di quelle (circa) 30 risorse per cui non si riesce a estrarle in modo automatico, sicuramente il numero dei dati aperti aumenterebbe, ma rimarrebbero sempre tantissime informazioni non pienamente riutilizzabili.
 
 Il portale non è sempre fonte primaria del dato, quindi non è responsabile sempre della scelta sulle licenze. Ma il suo essere un indice di risorse ci ha consentito di riuscire a creare rapidamente questo _report_ di riepilogo.
 
